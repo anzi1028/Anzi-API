@@ -1,1 +1,16 @@
-
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Anzi快递查询</title>
+	Anzi快递查询--支持国内所有主流快递查询
+</head>
+<body>
+<form action="search.php">
+请输入您所要查询的快递单号:<br>
+<input type="text" name="firstname" value="your number">
+<br><br>
+<input type="submit" value="search">
+</form>
+例如,快递单号:73107853468716
+</body>
+</html>
